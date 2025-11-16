@@ -57,4 +57,5 @@ Considering issues mentioned next steps of model improvement should be:
  - further development of features by adding more semantic features
  - use some recipt clustering by similar structure and use it as a feature for XGB classifier 
 - benchmarking with non-ML approach (regex+distance from total keyword) and Deep Learning model (LayoutML) in accuracy and performance.
+- transfer to multiclass recognition: total, price, item, company, etc.
 
