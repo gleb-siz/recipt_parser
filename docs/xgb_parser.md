@@ -55,5 +55,6 @@ Another issue is that approach lacking semantic features that obviously is very 
 Considering issues mentioned next steps of model improvement should be:
  - hyperparameter tuning with crossvalidation to find the most appropriate combination
  - further development of features by adding more semantic features
- 
+ - use some recipt clustering by similar structure and use it as a feature for XGB classifier 
+- benchmarking with non-ML approach (regex+distance from total keyword) and Deep Learning model (LayoutML) in accuracy and performance.
 
