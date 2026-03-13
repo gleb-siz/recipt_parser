@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+torch
+ipykernel
+matplotlib
+seaborn
+shap
+xgboost==3.0.5
+paddleocr
+mlflow
